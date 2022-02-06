@@ -1,5 +1,6 @@
 # AppClima
-Node-Inquirer-Yargs
+App that allows you to search for a city and obtain current weather data from it. An interactive console is used consuming two REST APIs: Mapbox Geocoding (obtain latitude and longitude from a string type address) and OpenWeather (weather data is obtained from latitude and longitude).
+Mainly inquired, axios and fs are used.
 
 ## Menu Command Line CLI
 ![image](https://user-images.githubusercontent.com/48660555/152697820-b2bcb449-31ed-4f97-b6a4-e3b5eea69f02.png)
