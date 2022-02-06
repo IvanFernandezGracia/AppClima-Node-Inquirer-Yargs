@@ -38,6 +38,8 @@ Node-Inquirer-Yargs
           <li>fs.readFileSync</li>
           <li>Token API</li>
         </ul>
+        </td>    
+        <td>
          <ul>
           <li>Postman</li>
           <li>Read Params Request</li>
