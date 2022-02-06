@@ -1,9 +1,19 @@
 # AppClima
 Node-Inquirer-Yargs
 
-## Command Line CLI
+## Menu Command Line CLI
+![image](https://user-images.githubusercontent.com/48660555/152697820-b2bcb449-31ed-4f97-b6a4-e3b5eea69f02.png)
 
-## Video Command Line CLI
+## Video Menu Command Line CLI
+https://user-images.githubusercontent.com/48660555/152697744-e9cc79d3-3e14-4219-9c4b-367fd5687949.mp4
+
+## Mapbox Geocoding
+https://docs.mapbox.com/api/search/geocoding/   
+![image](https://user-images.githubusercontent.com/48660555/152697851-507faf6c-4645-4b4f-bfd3-d3bcf5610a62.png)
+
+## OpenWeather
+https://openweathermap.org/   
+![image](https://user-images.githubusercontent.com/48660555/152697879-53fa41ac-80a6-4ffe-8468-14e0d132f657.png)
 
 
 <!-- Tech -->
