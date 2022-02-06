@@ -1,9 +1,52 @@
-# Aplicación de Clima
+# AppClima
+Node-Inquirer-Yargs
 
-Recuerden reconstruir los módulos de node con el comando
-```npm init```
+## Command Line CLI
 
-# Nota:
-Esto es parte de mi curso de Node:
+## Video Command Line CLI
 
-[Node de cero a experto](https://fernando-herrera.com/#/curso/node-cero-experto)
+
+<!-- Tech -->
+## Skills
+<table>
+  <tbody>
+    <tr>
+      <th align="center">Skills</th>
+      <th align="center">Skills</th>      
+    </tr>
+        <td>
+        <ul>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+        </ul>
+      </td>    
+        <td>
+        <ul>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+        </ul>
+      </td>
+        <td>
+        <ul>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+        </ul>
+      </td>
+  </tbody>
+</table>
+
+
+<!-- CONTACT -->
+## Contact
+Ivan Alejandro Fernandez Gracia  
+:email: ivan.fernandez.g@usach.cl  
+:telephone_receiver: +56-961214718  
+Fullstack & Mobile Developer  
+Mechanical Engineering  
+Universidad de Santiago de Chile
