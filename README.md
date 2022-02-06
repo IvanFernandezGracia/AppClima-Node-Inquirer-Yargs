@@ -12,7 +12,9 @@ Node-Inquirer-Yargs
   <tbody>
     <tr>
       <th align="center">Skills</th>
-      <th align="center">Skills</th>      
+      <th align="center">Skills</th>  
+      <th align="center">Skills</th>
+      <th align="center">Skills</th>
     </tr>
         <td>
         <ul>
